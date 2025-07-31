@@ -1,5 +1,5 @@
-# RemoteControl
-Remotely control your computer with your mobile phone.
+# STREAMGAME
+Remotely control your computer with your mobile phone for gaming!
 
 이 프로젝트는 저의 첫 번째 프로젝트입니다.
 
